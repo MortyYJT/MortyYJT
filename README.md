@@ -1,6 +1,6 @@
 <div align="center">
 
-# Junteng Yu (谷鱼Y)
+# 谷鱼Y
 
 Computer science student at the University of Melbourne.<br>
 Building AI agents and practical software, with a focus on reliable answers, explicit workflows, and useful interfaces.
