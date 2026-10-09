@@ -26,8 +26,7 @@ The problems I keep working on:
 
 | Project | What I am building |
 | --- | --- |
-| [Commerce Support Agent](https://github.com/MortyYJT/commerce-support-agent) | An e-commerce support assistant. The current rebuild focuses on a FastAPI chat service, validated requests, bounded history, and streaming replies. |
-| [OfferPilot](https://github.com/MortyYJT/offerpilot) | An application planning project for Australian master's programs, centred on applicant profiles and a visual preparation roadmap. Currently rebuilding the product foundation. |
+| [OfferPilot](https://github.com/MortyYJT/offerpilot) | A long-horizon planner for Australian master's applications: applicant profiles, a sourced application roadmap, a material library, and review records tied to official requirements. No model is connected yet; admission data is still pending verification. |
 | [SageSense](https://github.com/MortyYJT/sagesense) | An Android anti-scam companion built with a team: local risk detection, bilingual explanations, and a citation-backed advisor. |
 
 ## Tools I Work With
