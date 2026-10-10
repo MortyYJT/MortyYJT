@@ -5,7 +5,7 @@
 Computer science student at the University of Melbourne.<br>
 Building AI agents and practical software, with a focus on reliable answers, explicit workflows, and useful interfaces.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-GuYuY-0969DA?style=flat-square)](https://guyuy-portfolio.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-GuYuY-0969DA?style=flat-square)](https://mortyyjt.github.io/)
 [![Email](https://img.shields.io/badge/Email-Say_hello-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:1360242321y@gmail.com)
 [![SageSense Demo](https://img.shields.io/badge/Demo-SageSense-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtu.be/GRfb4cCK7PQ)
 
