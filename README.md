@@ -26,7 +26,8 @@ The problems I keep working on:
 
 | Project | What I am building |
 | --- | --- |
-| [OfferPilot](https://github.com/MortyYJT/offerpilot) | A long-horizon planner for Australian master's applications: applicant profiles, a sourced application roadmap, a material library, and review records tied to official requirements. No model is connected yet; admission data is still pending verification. |
+| [LeapAshore](https://github.com/MortyYJT/LeapAshore) | A master's application-planning agent covering the QS 2027 top 300: a six-phase roadmap, rule-by-rule reach / match / safe tiers, and a LangGraph advisor that passes an evidence gate before answering and asks before changing the school list. Deployed; most admission requirements are still being collected and are marked as pending verification. |
+| [StudyOrbit](https://github.com/MortyYJT/studyorbit) | A local-first UniMelb coursework assistant: reads Canvas, Ed and the Handbook from the signed-in session, has a model turn them into validated course JSON, then shows grades, plans the week and answers questions about each course. Still a prototype. |
 | [SageSense](https://github.com/MortyYJT/sagesense) | An Android anti-scam companion built with a team: local risk detection, bilingual explanations, and a citation-backed advisor. |
 
 ## Tools I Work With
@@ -51,6 +52,7 @@ The problems I keep working on:
 **Data / workflow**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Milvus](https://img.shields.io/badge/Milvus-00A1EA?style=flat-square)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
